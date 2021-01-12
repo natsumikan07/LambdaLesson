@@ -1,8 +1,8 @@
-class Lambda() {
+// class Lambda() {
 
 
-  public static void runrunrun() {
+//   public static void runrunrun() {
 
 
-  }
-}
+//   }
+// }
